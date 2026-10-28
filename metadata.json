@@ -1,0 +1,6 @@
+{
+  "name": "FactoryPatrol 工廠巡檢互動平板系統",
+  "description": "專為現場巡檢打造的工業互動式平板系統，支援設備快速打勾、數值儀表公差判讀、工廠平面地圖導航、瑕疵照片標註塗鴉、語音速記與電子簽章派工。",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
